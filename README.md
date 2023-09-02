@@ -6,7 +6,7 @@ This Repository is a Tutorial of Adversarial ML.
 
 - [Tutorial website](https://adversarial-ml-tutorial.org/)
 
-- [Tutorial video]([J. Z. Kolter and A. Madry: Adversarial Robustness - Theory and Practice (NeurIPS 2018 Tutorial) - YouTube](https://www.youtube.com/watch?v=TwP-gKBQyic&ab_channel=StevenVanVaerenbergh))
+- [Tutorial video](https://www.youtube.com/watch?v=TwP-gKBQyic&ab_channel=StevenVanVaerenbergh)
 
 Presented on NeurlPS 2018 by J. Z. Kolter and A. Madry.
 
@@ -113,9 +113,9 @@ Presented on NeurlPS 2018 by J. Z. Kolter and A. Madry.
                7. **Non-ℓ∞ norms**
                
                <img src="file:///Users/rojina/Desktop/Adversarial-Robustness/images/other-norms.png" title="" alt="" width="333">
-
+      
       2. Exactly
-    
+      
       3. Upper bound
 
-2. Solving outer minimization problem
+5. Solving outer minimization problem

@@ -106,13 +106,13 @@ Presented on NeurlPS 2018 by J. Z. Kolter and A. Madry.
             
             <img src="file:///Users/rojina/Desktop/Adversarial-Robustness/images/0-attack.png" title="" alt="" width="328">
             
-            6. **Targeted Attack (minimizing all other classes)**
+         6. **Targeted Attack (minimizing all other classes)**
                
-               <img src="file:///Users/rojina/Desktop/Adversarial-Robustness/images/fixed-0.png" title="" alt="" width="325">
+            <img src="file:///Users/rojina/Desktop/Adversarial-Robustness/images/fixed-0.png" title="" alt="" width="325">
                
-               7. **Non-ℓ∞ norms**
+         7. **Non-ℓ∞ norms**
                
-               <img src="file:///Users/rojina/Desktop/Adversarial-Robustness/images/other-norms.png" title="" alt="" width="333">
+            <img src="file:///Users/rojina/Desktop/Adversarial-Robustness/images/other-norms.png" title="" alt="" width="333">
       
       2. Exactly
       

@@ -1,4 +1,4 @@
-This Repository is a Tutorial of Adversarial ML. 
+This Repository is about Adversarial and Robustness in Machine Learning. 
 
 - Slides my me
 
@@ -105,17 +105,29 @@ Presented on NeurlPS 2018 by J. Z. Kolter and A. Madry.
             Target attack = 0 (we are maximizing is the class logit for the zero minus the class logit for the true class. But we don’t actually care what happens to the other classes, and in some cases, the best way to make the class 0 logit high is to make another class logit even higher.)
             
             <img src="file:///Users/rojina/Desktop/Adversarial-Robustness/images/0-attack.png" title="" alt="" width="328">
-            
+         
          6. **Targeted Attack (minimizing all other classes)**
-               
+            
             <img src="file:///Users/rojina/Desktop/Adversarial-Robustness/images/fixed-0.png" title="" alt="" width="325">
-               
+         
          7. **Non-ℓ∞ norms**
-               
+            
             <img src="file:///Users/rojina/Desktop/Adversarial-Robustness/images/other-norms.png" title="" alt="" width="333">
       
-      2. Exactly
+      2. Exactly solving
+         
+         1. Mixed integer formulation
+         
+         2. Finding upper bound and lower bound
+         
+         3. Final integer programming formulation
+         
+         4. Certifying robustness
       
-      3. Upper bound
+      3. Upper bounding technique
+         
+         1. Convex relaxation
+         
+         2. Interval-propagation-based bounds
 
 5. Solving outer minimization problem

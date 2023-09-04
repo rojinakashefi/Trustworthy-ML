@@ -130,10 +130,8 @@ Presented on NeurlPS 2018 by J. Z. Kolter and A. Madry.
          
          2. Interval-propagation-based bounds
 
-5. Solving outer minimization problem
-   
-   1. Adversarial training with adversarial examples
-   
-   2. Relaxation-based robust training
-   
-   3. Training using provable criteria
+
+   2. Solving outer minimization problem
+         1. Adversarial training with adversarial examples
+         2. Relaxation-based robust training
+         3. Training using provable criteria

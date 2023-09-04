@@ -1,8 +1,8 @@
 This Repository is about Adversarial and Robustness in Machine Learning. 
 
-- Slides created my me
+- [Slides created my me]()
 
-- Codes by me
+- [Codes by me]()
 
 - [Tutorial website](https://adversarial-ml-tutorial.org/)
 
